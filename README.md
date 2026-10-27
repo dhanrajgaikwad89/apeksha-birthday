@@ -1,28 +1,14 @@
-# For Apeksha, with love
+# Happy Birthday, Apeksha
 
-A personal birthday website made by Dhanraj for Apeksha.
+A birthday surprise from Dhanraj for Apeksha, 10 December 2026.
 
-## Experience
+- [Birthday website](https://dhanrajgaikwad89.github.io/apeksha-birthday/)
+- [Birthday video — 3D edition](https://dhanrajgaikwad89.github.io/apeksha-birthday/video/)
+- [All our memories](https://dhanrajgaikwad89.github.io/apeksha-birthday/memories/)
 
-Purple and rose-gold styling, photo and video memories, a 3D photo carousel,
-interactive love notes, a couple's quiz, a matching game, a Marathi birthday
-letter with an English translation, and birthday candles.
+The website includes a Marathi letter, original background music, interactive 3D
+photo frames, the approved double-exposure artwork, balloons and playback controls.
+The Full HD video is 2 minutes 44 seconds.
 
-The birthday countdown is set to **10 December 2026, midnight IST**.
-Background music starts only after a tap. Reduced-motion preferences are respected.
-
-## GitHub Pages
-
-This is a static website. No build step is required.
-
-In **Settings → Pages**, choose **Deploy from a branch**, then **main** and
-**/ (root)**. The `.nojekyll` file keeps the supplied static assets intact.
-
-To review locally, open `index.html` in a modern browser.
-
-## Updating
-
-Keep `index.html`, the stylesheets, scripts, and `assets/` together. All local
-asset paths are relative, so the site works at a GitHub Pages repository URL.
-
-The photographs and videos are personal media and are not licensed for reuse.
+Built as a static website for GitHub Pages. No build step is required.
+Source attribution and license details are in CREDITS.md and LICENSE.
